@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with my ass
+-->
+<TextureAtlas imagePath="itoSaihara.png" width="2048" height="2048">
+  <SubTexture name="lol0001" x="0" y="0"  width="2048" height="2048" frameX="0" frameY="0" frameWidth="2048" frameHeight="2048"/>
+</TextureAtlas>

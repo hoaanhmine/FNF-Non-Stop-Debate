@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "koko idle"
+		},
+		{
+			"offsets": [
+				-27,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "koko left"
+		},
+		{
+			"offsets": [
+				-65,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "koko down"
+		},
+		{
+			"offsets": [
+				-22,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "koko up"
+		},
+		{
+			"offsets": [
+				10,
+				-1
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "koko right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kokichi2",
+	"position": [
+		-40,
+		120
+	],
+	"healthicon": "drgaypeople",
+	"flip_x": false,
+	"healthbar_colors": [
+		147,
+		92,
+		237
+	],
+	"camera_position": [
+		150,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

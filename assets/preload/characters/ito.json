@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"offsets": [
+				35,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				-24,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				-16,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				447,
+				-11
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				-30
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				77
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				186,
+				9
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right Alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/itoSaihara",
+	"position": [
+		0,
+		-330
+	],
+	"healthicon": "drshuichi",
+	"flip_x": true,
+	"healthbar_colors": [
+		56,
+		109,
+		238
+	],
+	"camera_position": [
+		70,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "A Thin Line Divides Heaven and Hell",
+	"difficulties": "Normal, Despair",
+	"hideFreeplay": false,
+	"weekBackground": "dangan",
+	"freeplayColor": [
+		204,
+		58,
+		243
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"BLACKENED",
+			"drkokichi",
+			[
+				204,
+				58,
+				243
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Funkin' Harmony",
+	"hiddenUntilUnlocked": false
+}

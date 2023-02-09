@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="itoSaihara2.png" width="4018" height="1191">
+  <SubTexture name="succ down0001" x="0" y="0"  width="428" height="561" frameX="-0" frameY="-14" frameWidth="428" frameHeight="575"/>
+  <SubTexture name="succ right0001" x="428" y="0"  width="360" height="561" frameX="-0" frameY="-30" frameWidth="360" frameHeight="591"/>
+  <SubTexture name="succ down0003" x="788" y="0"  width="412" height="568" frameX="-11" frameY="-7" frameWidth="428" frameHeight="575"/>
+  <SubTexture name="succ down0005" x="1200" y="0"  width="412" height="575" frameX="-11" frameY="-0" frameWidth="428" frameHeight="575"/>
+  <SubTexture name="succ_idle0001" x="1612" y="0"  width="428" height="579" frameX="-348" frameY="-17" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ_idle0002" x="2040" y="0"  width="426" height="579" frameX="-350" frameY="-17" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ_idle0005" x="2466" y="0"  width="414" height="581" frameX="-354" frameY="-13" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ left0003" x="2880" y="0"  width="378" height="588" frameX="-19" frameY="-4" frameWidth="406" frameHeight="592"/>
+  <SubTexture name="succ right0005" x="3258" y="0"  width="339" height="588" frameX="-12" frameY="-3" frameWidth="360" frameHeight="591"/>
+  <SubTexture name="succ_idle0003" x="3597" y="0"  width="421" height="588" frameX="-352" frameY="-6" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ left0005" x="0" y="561"  width="378" height="591" frameX="-19" frameY="-1" frameWidth="406" frameHeight="592"/>
+  <SubTexture name="succ right0003" x="378" y="561"  width="339" height="591" frameX="-12" frameY="-0" frameWidth="360" frameHeight="591"/>
+  <SubTexture name="succ left0001" x="717" y="568"  width="406" height="592" frameX="-0" frameY="-0" frameWidth="406" frameHeight="592"/>
+  <SubTexture name="succ_idle0007" x="1123" y="575"  width="407" height="594" frameX="-357" frameY="-0" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ up0005" x="1530" y="579"  width="333" height="601" frameX="-0" frameY="-9" frameWidth="333" frameHeight="610"/>
+  <SubTexture name="succ up0001" x="1863" y="579"  width="315" height="609" frameX="-13" frameY="-1" frameWidth="333" frameHeight="610"/>
+  <SubTexture name="succ up0003" x="2178" y="581"  width="331" height="610" frameX="-2" frameY="-0" frameWidth="333" frameHeight="610"/>
+  <SubTexture name="succ down0002" x="0" y="0"  width="428" height="561" frameX="-0" frameY="-14" frameWidth="428" frameHeight="575"/>
+  <SubTexture name="succ down0004" x="788" y="0"  width="412" height="568" frameX="-11" frameY="-7" frameWidth="428" frameHeight="575"/>
+  <SubTexture name="succ down0006" x="1200" y="0"  width="412" height="575" frameX="-11" frameY="-0" frameWidth="428" frameHeight="575"/>
+  <SubTexture name="succ down0007" x="1200" y="0"  width="412" height="575" frameX="-11" frameY="-0" frameWidth="428" frameHeight="575"/>
+  <SubTexture name="succ down0008" x="1200" y="0"  width="412" height="575" frameX="-11" frameY="-0" frameWidth="428" frameHeight="575"/>
+  <SubTexture name="succ down0009" x="1200" y="0"  width="412" height="575" frameX="-11" frameY="-0" frameWidth="428" frameHeight="575"/>
+  <SubTexture name="succ down0010" x="1200" y="0"  width="412" height="575" frameX="-11" frameY="-0" frameWidth="428" frameHeight="575"/>
+  <SubTexture name="succ left0002" x="717" y="568"  width="406" height="592" frameX="-0" frameY="-0" frameWidth="406" frameHeight="592"/>
+  <SubTexture name="succ left0004" x="2880" y="0"  width="378" height="588" frameX="-19" frameY="-4" frameWidth="406" frameHeight="592"/>
+  <SubTexture name="succ left0006" x="0" y="561"  width="378" height="591" frameX="-19" frameY="-1" frameWidth="406" frameHeight="592"/>
+  <SubTexture name="succ left0007" x="0" y="561"  width="378" height="591" frameX="-19" frameY="-1" frameWidth="406" frameHeight="592"/>
+  <SubTexture name="succ left0008" x="0" y="561"  width="378" height="591" frameX="-19" frameY="-1" frameWidth="406" frameHeight="592"/>
+  <SubTexture name="succ left0009" x="0" y="561"  width="378" height="591" frameX="-19" frameY="-1" frameWidth="406" frameHeight="592"/>
+  <SubTexture name="succ left0010" x="0" y="561"  width="378" height="591" frameX="-19" frameY="-1" frameWidth="406" frameHeight="592"/>
+  <SubTexture name="succ right0002" x="428" y="0"  width="360" height="561" frameX="-0" frameY="-30" frameWidth="360" frameHeight="591"/>
+  <SubTexture name="succ right0004" x="378" y="561"  width="339" height="591" frameX="-12" frameY="-0" frameWidth="360" frameHeight="591"/>
+  <SubTexture name="succ right0006" x="3258" y="0"  width="339" height="588" frameX="-12" frameY="-3" frameWidth="360" frameHeight="591"/>
+  <SubTexture name="succ right0007" x="3258" y="0"  width="339" height="588" frameX="-12" frameY="-3" frameWidth="360" frameHeight="591"/>
+  <SubTexture name="succ right0008" x="3258" y="0"  width="339" height="588" frameX="-12" frameY="-3" frameWidth="360" frameHeight="591"/>
+  <SubTexture name="succ right0009" x="3258" y="0"  width="339" height="588" frameX="-12" frameY="-3" frameWidth="360" frameHeight="591"/>
+  <SubTexture name="succ right0010" x="3258" y="0"  width="339" height="588" frameX="-12" frameY="-3" frameWidth="360" frameHeight="591"/>
+  <SubTexture name="succ up0002" x="1863" y="579"  width="315" height="609" frameX="-13" frameY="-1" frameWidth="333" frameHeight="610"/>
+  <SubTexture name="succ up0004" x="2178" y="581"  width="331" height="610" frameX="-2" frameY="-0" frameWidth="333" frameHeight="610"/>
+  <SubTexture name="succ up0006" x="1530" y="579"  width="333" height="601" frameX="-0" frameY="-9" frameWidth="333" frameHeight="610"/>
+  <SubTexture name="succ up0007" x="1530" y="579"  width="333" height="601" frameX="-0" frameY="-9" frameWidth="333" frameHeight="610"/>
+  <SubTexture name="succ up0008" x="1530" y="579"  width="333" height="601" frameX="-0" frameY="-9" frameWidth="333" frameHeight="610"/>
+  <SubTexture name="succ up0009" x="1530" y="579"  width="333" height="601" frameX="-0" frameY="-9" frameWidth="333" frameHeight="610"/>
+  <SubTexture name="succ up0010" x="1530" y="579"  width="333" height="601" frameX="-0" frameY="-9" frameWidth="333" frameHeight="610"/>
+  <SubTexture name="succ_idle0004" x="3597" y="0"  width="421" height="588" frameX="-352" frameY="-6" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ_idle0006" x="2466" y="0"  width="414" height="581" frameX="-354" frameY="-13" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ_idle0008" x="1123" y="575"  width="407" height="594" frameX="-357" frameY="-0" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ_idle0009" x="1123" y="575"  width="407" height="594" frameX="-357" frameY="-0" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ_idle0010" x="1123" y="575"  width="407" height="594" frameX="-357" frameY="-0" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ_idle0011" x="1123" y="575"  width="407" height="594" frameX="-357" frameY="-0" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ_idle0012" x="1123" y="575"  width="407" height="594" frameX="-357" frameY="-0" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ_idle0013" x="1123" y="575"  width="407" height="594" frameX="-357" frameY="-0" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ_idle0014" x="1123" y="575"  width="407" height="594" frameX="-357" frameY="-0" frameWidth="776" frameHeight="596"/>
+  <SubTexture name="succ_idle0015" x="1123" y="575"  width="407" height="594" frameX="-357" frameY="-0" frameWidth="776" frameHeight="596"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+THINK FAST CHUCKLENUTS
+
+Value 1 defines the duration of the flash
+(default is 1 second)
+
+(only white flashes are available for now)

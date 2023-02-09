@@ -1,0 +1,7 @@
+Funny lookin' subtitles because why not
+
+Value 1 changes the text to whatever you want
+Leave it blank if you want it gone
+
+Value 2 changes the font size if necessary
+(default value is 28)

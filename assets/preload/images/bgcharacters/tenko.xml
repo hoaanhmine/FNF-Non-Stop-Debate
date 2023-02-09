@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tenko.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tenki0000" x="40" y="40" width="589" height="1076" frameX="-22" frameY="-28" frameWidth="613" frameHeight="1105"/>
+	<SubTexture name="tenki0001" x="40" y="40" width="589" height="1076" frameX="-22" frameY="-28" frameWidth="613" frameHeight="1105"/>
+	<SubTexture name="tenki0002" x="669" y="40" width="613" height="1105"/>
+	<SubTexture name="tenki0003" x="669" y="40" width="613" height="1105"/>
+	<SubTexture name="tenki0004" x="1322" y="40" width="528" height="1079" frameX="-72" frameY="-26" frameWidth="613" frameHeight="1105"/>
+	<SubTexture name="tenki0005" x="1322" y="40" width="528" height="1079" frameX="-72" frameY="-26" frameWidth="613" frameHeight="1105"/>
+	<SubTexture name="tenki0006" x="1890" y="40" width="523" height="1079" frameX="-77" frameY="-26" frameWidth="613" frameHeight="1105"/>
+	<SubTexture name="tenki0007" x="1890" y="40" width="523" height="1079" frameX="-77" frameY="-26" frameWidth="613" frameHeight="1105"/>
+	<SubTexture name="tenki0008" x="2453" y="40" width="519" height="1075" frameX="-81" frameY="-30" frameWidth="613" frameHeight="1105"/>
+	<SubTexture name="tenki0009" x="2453" y="40" width="519" height="1075" frameX="-81" frameY="-30" frameWidth="613" frameHeight="1105"/>
+	<SubTexture name="tenki0010" x="2453" y="40" width="519" height="1075" frameX="-81" frameY="-30" frameWidth="613" frameHeight="1105"/>
+	<SubTexture name="tenki0011" x="2453" y="40" width="519" height="1075" frameX="-81" frameY="-30" frameWidth="613" frameHeight="1105"/>
+	<SubTexture name="tenki0012" x="2453" y="40" width="519" height="1075" frameX="-81" frameY="-30" frameWidth="613" frameHeight="1105"/>
+	<SubTexture name="tenki0013" x="2453" y="40" width="519" height="1075" frameX="-81" frameY="-30" frameWidth="613" frameHeight="1105"/>
+</TextureAtlas>

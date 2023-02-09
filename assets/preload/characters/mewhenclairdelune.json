@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sidle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				63
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				447,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Left Alt"
+		},
+		{
+			"offsets": [
+				126,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Down Alt"
+		},
+		{
+			"offsets": [
+				49,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Up Alt"
+		},
+		{
+			"offsets": [
+				186,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Right Alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "lol"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/epicfail",
+	"position": [
+		-640,
+		-600
+	],
+	"healthicon": "drshuichi",
+	"flip_x": true,
+	"healthbar_colors": [
+		56,
+		109,
+		238
+	],
+	"camera_position": [
+		-600,
+		630
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

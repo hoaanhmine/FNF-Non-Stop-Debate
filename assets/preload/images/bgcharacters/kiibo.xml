@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kiibo.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kiibo0000" x="40" y="40" width="508" height="999" frameX="0" frameY="-20" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0001" x="40" y="40" width="508" height="999" frameX="0" frameY="-20" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0002" x="588" y="40" width="488" height="1019" frameX="-11" frameY="0" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0003" x="588" y="40" width="488" height="1019" frameX="-11" frameY="0" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0004" x="1116" y="40" width="483" height="1015" frameX="-14" frameY="-4" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0005" x="1116" y="40" width="483" height="1015" frameX="-14" frameY="-4" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0006" x="1639" y="40" width="483" height="1015" frameX="-14" frameY="-4" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0007" x="1639" y="40" width="483" height="1015" frameX="-14" frameY="-4" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0008" x="2162" y="40" width="483" height="1013" frameX="-14" frameY="-6" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0009" x="2162" y="40" width="483" height="1013" frameX="-14" frameY="-6" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0010" x="2162" y="40" width="483" height="1013" frameX="-14" frameY="-6" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0011" x="2162" y="40" width="483" height="1013" frameX="-14" frameY="-6" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0012" x="2162" y="40" width="483" height="1013" frameX="-14" frameY="-6" frameWidth="508" frameHeight="1019"/>
+	<SubTexture name="kiibo0013" x="2162" y="40" width="483" height="1013" frameX="-14" frameY="-6" frameWidth="508" frameHeight="1019"/>
+</TextureAtlas>

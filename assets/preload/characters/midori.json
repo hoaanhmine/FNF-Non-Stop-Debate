@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				440,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "THE MAN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-14
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "GAY FUCKING GIGGLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ITO",
+	"position": [
+		0,
+		160
+	],
+	"healthicon": "midori",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		215,
+		104
+	],
+	"camera_position": [
+		0,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

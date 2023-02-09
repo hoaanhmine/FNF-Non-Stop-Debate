@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFTk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				39,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "leftalt"
+		},
+		{
+			"offsets": [
+				-20,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "downalt"
+		},
+		{
+			"offsets": [
+				216,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "upalt"
+		},
+		{
+			"offsets": [
+				1,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "rightalt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kokichi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "drkokichi",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		58,
+		243
+	],
+	"camera_position": [
+		0,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

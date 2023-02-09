@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "succ_idle"
+		},
+		{
+			"offsets": [
+				-490,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "succ left"
+		},
+		{
+			"offsets": [
+				-519,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "succ down"
+		},
+		{
+			"offsets": [
+				-540,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "succ up"
+		},
+		{
+			"offsets": [
+				-570,
+				-3
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "succ right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/itoSaihara2",
+	"position": [
+		-410,
+		-140
+	],
+	"healthicon": "drgaypeople",
+	"flip_x": true,
+	"healthbar_colors": [
+		147,
+		92,
+		237
+	],
+	"camera_position": [
+		-500,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
