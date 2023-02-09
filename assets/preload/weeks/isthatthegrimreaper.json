@@ -1,0 +1,41 @@
+{
+	"storyName": "Extras",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		204,
+		58,
+		243
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Fingers",
+			"drnagito",
+			[
+				1,
+				89,
+				89
+			]
+		],
+		[
+			"Puppeteer",
+			"midori",
+			[
+				0,
+				128,
+				66
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Extras",
+	"hiddenUntilUnlocked": false
+}
